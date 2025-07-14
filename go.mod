@@ -6,7 +6,7 @@ toolchain go1.23.10
 
 require (
 	github.com/getkin/kin-openapi v0.132.0
-	github.com/mark3labs/mcp-go v0.32.0
+	github.com/mark3labs/mcp-go v0.33.0
 )
 
 require (
